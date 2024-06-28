@@ -1,3 +1,5 @@
+## Note to self: can display the webpage using a lower version on node. Not sure if the tensor actually works on my local machine because of issues with the environment.
+
 # Tensorflow JS - Rock Paper Scissors
 ![rps header logo](./public/rps_logo.jpg)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ecb46145-5398-4a57-8cb5-888ba8ae2545/deploy-status)](https://app.netlify.com/sites/rps-tfjs/deploys)
